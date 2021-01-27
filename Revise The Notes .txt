@@ -1,0 +1,723 @@
+echo "# GitDemo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nikith-A-Reddy/GitDemo.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Nikith-A-Reddy/GitDemo.git
+git branch -M main
+git push -u origin main
+
+
+
+Github.com-kotaveerareddy@gmail.com
+           NikithReddy*#!1
+
+No Sleep And No REST Till I Get The JOB
+
+
+
+13_JRTP-    Meeting ID-89173399321
+            Passcode-452822
+            Your E-mail-kotaveerareddy@gmail.com
+
+07_SBMS-      Meeting ID-89374239393
+              Password : 580574
+
+Angular 11 With Typescript->  Meetin ID-86301959255
+                              Password-441459
+
+
+GitHub Repository URL_ https://github.com/Nikith-A-Reddy/MYFirstApp.git
+
+2021-01-19-06-13-45
+
+https://github.com/Nikith-A-Reddy/MYFirstApp.git
+
+2021-01-23-05-49-54
+
+2021-01-26-19-09-47
+
+2021-01-27-07-07-13
+
+2021-01-27-15-07-51
+
+2021-01-27-06-15-25
+
+2021-01-24-06-15-34
+
+2021-01-26-14-46-50
+
+2021-01-24-23-07-02
+
+2021-01-27-08-37-21
+
+2021-01-25-07-30-44
+
+2021-01-25-19-23-27
+
+2021-01-26-12-41-30
+
+2021-01-26-16-15-16
+
+2021-01-26-14-59-35
+
+2021-01-25-06-14-33
+
+2021-01-24-20-17-02
+
+2021-01-23-06-17-26
+
+2021-01-23-05-09-21
+
+2021-01-24-19-20-40s
+
+2021-01-24-21-49-38
+
+2021-01-24-09-42-03
+
+2021-01-26-08-42-27
+
+2021-01-24-18-03-10
+
+2021-01-23-08-50-53
+
+2021-01-22-08-45-01
+
+2021-01-22-08-47-50
+
+2021-01-22-07-15-53
+
+2021-01-22-06-17-06
+
+2021-01-20-08-48-30
+
+2021-01-20-08-36-18
+
+2021-01-20-07-28-48
+
+2021-01-19-10-00-52
+
+2021-01-19-16-55-31
+
+2021-01-20-06-22-42
+
+2021-01-16-06-16-36
+
+2021-01-19-08-43-29
+
+2021-01-19-07-22-19
+
+2021-01-16-09-00-45
+
+2021-01-18-08-45-18
+
+2021-01-20-06-04-44
+
+2021-01-18-17-03-13
+
+2021-01-15-06-14-24
+
+2021-01-21-08-43-45
+
+2021-01-13-08-45-11
+
+2021-01-13-06-21-44
+
+2021-01-12-08-31-25
+
+2021-01-12-05-59-32
+
+2021-01-11-08-29-32
+
+2021-01-15-08-45-14
+
+2021-01-18-06-17-07
+
+C:\Users\Nikith  -A-  Reddy>mvn -v
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+Maven home: C:\apache-maven-3.6.3\bin\..
+Java version: 11, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-11
+Default locale: en_US, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+C:\Users\Nikith  -A-  Reddy>mvn -version
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+Maven home: C:\apache-maven-3.6.3\bin\..
+Java version: 11, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-11
+Default locale: en_US, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+1..... Core Java (3 lectures in a day)
+2.... J2EE(2 lectures in a day)
+3.... Spring and Hibernate And also SpringBoot
+4..... Data Structures and Algorithms.........
+
+5...... Software DevLOVEper
+6..... Why am I wasting time?
+7..... Follow the Ashok IT for all
+
+Spring Boot with Microservices  Introduction   Ashok IT
+Spring Boot with Microservices   Session - 02   Ashok IT
+Spring Boot with Microservices   Session - 03   Ashok IT
+Spring Boot with Microservices   Session -04   Ashok IT
+Spring Boot with Microservices 830 AM IST   Ashok IT Class-06
+
+Spring Boot with Microservices 830 AM IST   Ashok IT
+
+Spring Boot with Microservices 830 AM IST   Ashok IT
+
+Spring Boot with Microservices 830 AM IST   Ashok IT
+
+Spring Boot with Microservices 830 AM IST   Ashok IT
+
+Spring Boot with Microservices 830 AM IST   Ashok IT
+
+2021-01-13-09-53-32
+
+2021-01-13-12-53-30
+
+Java Realtime Project (Fullstack)   Session -01   Ashok IT
+Java Realtime Project (Fullstack)   Session - 02   Ashok IT
+Java Real-time Project (Fullstack)   Session - 03   Ashok IT
+Java Real-time Project (Fullstack)   Session - 04   Ashok IT
+Java Real-time Project (Fullstack)   Session - 04   Ashok IT
+Java Real-time Project (Fullstack)   Session - 05   Ashok IT
+
+Java Realtime Project (fullstack)   Session - 07   Ashok IT
+
+Java Real-time Project (Fullstack) @ 6 AM IST   Ashok IT
+
+Meeting Details For Zoom App
+
+13-JRTP
+
+Meeting-www.zoom.us/j/89173399321
+Meeting ID-89173399321
+Passcode-452822
+
+Your E-mail-kotaveerareddy@gmail.com
+
+
+SpringBoot & Microservices Batch
+
+Registration Link : https://forms.gle/PLDz95nBPab83uF39
+Zoom Link : www.zoom.us/j/89374239393
+Password : 580574
+Course Content : https://www.youtube.com/watch?v=zYcsck_2uQY...
+
+DESKTOP-NDCDGQE\Nikith Reddy
+
+
+Jenkins Password-9b99cc1499454d54b8513a8a884c48a2
+
+
+My Interview Preparation-
+
+Prepare on these  Topic:
+
+The Topics are As Follows--
+
+
+
+1.For Managerial Round Questions
+2.Java Coding Questions
+3.Data Structures And Algorithms
+4.Technical Questions about the project
+5.Java(w3schools.com and Javatpoint),MYSQL-SDET Videos,
+6. Revise 3 lectures per Day
+Learn All the technologies that are there in AshokIT
+It Continues.........
+
+13-JRTP-Class-03-2021-01-06-06-16-50
+
+2021-01-06-08-33-08
+
+Meeting Details For Zoom App
+
+Meeting-www.zoom.us/j/89173399321
+Meeting ID-89173399321
+Passcode-452822
+
+Your E-mail-kotaveerareddy@gmail.com
+
+
+SpringBoot & Microservices Batch
+
+Registration Link : https://forms.gle/PLDz95nBPab83uF39
+Zoom Link : www.zoom.us/j/89374239393
+Password : 580574
+Course Content : https://www.youtube.com/watch?v=zYcsck_2uQY...
+
+2021-01-07-05-59-58
+
+2021-01-07-08-31-04
+
+2021-01-08-06-05-38
+
+2021-01-08-08-37-42
+
+2021-01-11-06-10-19
+
+
+Auto run Programs-1.4K Video Downloader
+                  2.Eclipse.exe
+                  3.Excel
+                  4.PowerPoint
+                  5.SpringToolSuite.exe
+                  6.Telegram
+                  7.VLC Media Player
+                  8.Word
+
+fahamina@swayaan.com
+
+Main Porcelain Commands
+   add                  Add file contents to the index
+   am                   Apply a series of patches from a mailbox
+   archive              Create an archive of files from a named tree
+   bisect               Use binary search to find the commit that introduced a bug
+   branch               List, create, or delete branches
+   bundle               Move objects and refs by archive
+   checkout             Switch branches or restore working tree files
+   cherry-pick          Apply the changes introduced by some existing commits
+   citool               Graphical alternative to git-commit
+   clean                Remove untracked files from the working tree
+   clone                Clone a repository into a new directory
+   commit               Record changes to the repository
+   describe             Give an object a human readable name based on an available ref
+   diff                 Show changes between commits, commit and working tree, etc
+   fetch                Download objects and refs from another repository
+   format-patch         Prepare patches for e-mail submission
+   gc                   Cleanup unnecessary files and optimize the local repository
+   gitk                 The Git repository browser
+   grep                 Print lines matching a pattern
+   gui                  A portable graphical interface to Git
+   init                 Create an empty Git repository or reinitialize an existing one
+   log                  Show commit logs
+   merge                Join two or more development histories together
+   mv                   Move or rename a file, a directory, or a symlink
+   notes                Add or inspect object notes
+   pull                 Fetch from and integrate with another repository or a local branch
+   push                 Update remote refs along with associated objects
+   range-diff           Compare two commit ranges (e.g. two versions of a branch)
+   rebase               Reapply commits on top of another base tip
+   reset                Reset current HEAD to the specified state
+   restore              Restore working tree files
+   revert               Revert some existing commits
+   rm                   Remove files from the working tree and from the index
+   shortlog             Summarize 'git log' output
+   show                 Show various types of objects
+   sparse-checkout      Initialize and modify the sparse-checkout
+   stash                Stash the changes in a dirty working directory away
+   status               Show the working tree status
+   submodule            Initialize, update or inspect submodules
+   switch               Switch branches
+   tag                  Create, list, delete or verify a tag object signed with GPG
+   worktree             Manage multiple working trees
+
+Ancillary Commands / Manipulators
+   config               Get and set repository or global options
+   fast-export          Git data exporter
+   fast-import          Backend for fast Git data importers
+
+$ git help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone             Clone a repository into a new directory
+   init              Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add               Add file contents to the index
+   mv                Move or rename a file, a directory, or a symlink
+   restore           Restore working tree files
+   rm                Remove files from the working tree and from the index
+   sparse-checkout   Initialize and modify the sparse-checkout
+
+examine the history and state (see also: git help revisions)
+   bisect            Use binary search to find the commit that introduced a bug
+   diff              Show changes between commits, commit and working tree, etc
+   grep              Print lines matching a pattern
+   log               Show commit logs
+   show              Show various types of objects
+   status            Show the working tree status
+
+grow, mark and tweak your common history
+   branch            List, create, or delete branches
+   commit            Record changes to the repository
+   merge             Join two or more development histories together
+   rebase            Reapply commits on top of another base tip
+   reset             Reset current HEAD to the specified state
+   switch            Switch branches
+   tag               Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch             Download objects and refs from another repository
+   pull              Fetch from and integrate with another repository or a local branch
+   push              Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+
+
+Microsoft Windows [Version 10.0.19042.685]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\Nikith  -A-  Reddy>maven -v
+'maven' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikith  -A-  Reddy>mvn
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.444 s
+[INFO] Finished at: 2021-01-21T07:47:59+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoGoalSpecifiedException
+
+C:\Users\Nikith  -A-  Reddy>mvn
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.331 s
+[INFO] Finished at: 2021-01-21T07:48:58+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] No goals have been specified for this build. You must specify a valid lifecycle phase or a goal in the format <plugin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are: validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-test-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, install, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/NoGoalSpecifiedException
+
+C:\Users\Nikith  -A-  Reddy>mvn -version
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+Maven home: C:\apache-maven-3.6.3\bin\..
+Java version: 11, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-11
+Default locale: en_US, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+C:\Users\Nikith  -A-  Reddy>mvn -v
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+Maven home: C:\apache-maven-3.6.3\bin\..
+Java version: 11, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk-11
+Default locale: en_US, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+C:\Users\Nikith  -A-  Reddy>
+
+
+
+Microsoft Windows [Version 10.0.19042.685]
+(c) 2020 Microsoft Corporation. All rights reserved.
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>clean
+'clean' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn clean
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.1.0/maven-clean-plugin-3.1.0.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.1.0/maven-clean-plugin-3.1.0.pom (5.2 kB at 1.1 kB/s)
+[INFO]
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ mysupercoolapp ---
+[INFO] Deleting C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  13.880 s
+[INFO] Finished at: 2021-01-21T07:53:06+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>compile
+'compile' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn compile
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\main\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ mysupercoolapp ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  11.932 s
+[INFO] Finished at: 2021-01-21T07:53:45+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn test
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\main\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ mysupercoolapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ mysupercoolapp ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ mysupercoolapp ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.pom (11 kB at 2.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.pom (3.5 kB at 3.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.pom (2.0 kB at 2.3 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.pom (7.5 kB at 8.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.jar (13 kB at 5.5 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.jar (274 kB at 34 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.jar (186 kB at 23 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.jar (528 kB at 62 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom (3.1 kB at 2.8 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom (2.5 kB at 2.5 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar (85 kB at 48 kB/s)
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.luv2code.mysupercoolapp.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.59 s - in com.luv2code.mysupercoolapp.AppTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  42.748 s
+[INFO] Finished at: 2021-01-21T07:54:48+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mnv package
+'mnv' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\main\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ mysupercoolapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ mysupercoolapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ mysupercoolapp ---
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.luv2code.mysupercoolapp.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.161 s - in com.luv2code.mysupercoolapp.AppTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ mysupercoolapp ---
+[INFO] Building jar: C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\mysupercoolapp-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  11.624 s
+[INFO] Finished at: 2021-01-21T07:55:50+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn clean package
+[INFO] Scanning for projects...
+[ERROR] [ERROR] Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\pom.xml: TEXT must be immediately followed by END_TAG and not START_TAG (position: START_TAG seen ...<finalName>Nikita<finalName>... @74:29)  @ line 74, column 29
+ @
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]
+[ERROR]   The project  (C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\pom.xml) has 1 error
+[ERROR]     Non-parseable POM C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\pom.xml: TEXT must be immediately followed by END_TAG and not START_TAG (position: START_TAG seen ...<finalName>Nikita<finalName>... @74:29)  @ line 74, column 29 -> [Help 2]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
+[ERROR] [Help 2] http://cwiki.apache.org/confluence/display/MAVEN/ModelParseException
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn clean package
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ mysupercoolapp ---
+[INFO] Deleting C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\main\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ mysupercoolapp ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ mysupercoolapp ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\test-classes
+[INFO]
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ mysupercoolapp ---
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.luv2code.mysupercoolapp.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.848 s - in com.luv2code.mysupercoolapp.AppTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ mysupercoolapp ---
+[INFO] Building jar: C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\Nikita.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  37.501 s
+[INFO] Finished at: 2021-01-21T08:00:23+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>mvn install
+[INFO] Scanning for projects...
+[INFO]
+[INFO] --------------------< com.luv2code:mysupercoolapp >---------------------
+[INFO] Building mysupercoolapp 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.2/maven-install-plugin-2.5.2.pom (6.4 kB at 162 B/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/25/maven-plugins-25.pom (9.6 kB at 2.0 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/24/maven-parent-24.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/24/maven-parent-24.pom (37 kB at 3.1 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/14/apache-14.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/14/apache-14.pom (15 kB at 2.1 kB/s)
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\main\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ mysupercoolapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ mysupercoolapp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\src\test\resources
+[INFO]
+[INFO] --- maven-compiler-plugin:3.8.0:testCompile (default-testCompile) @ mysupercoolapp ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO]
+[INFO] --- maven-surefire-plugin:2.22.1:test (default-test) @ mysupercoolapp ---
+[INFO]
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.luv2code.mysupercoolapp.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.597 s - in com.luv2code.mysupercoolapp.AppTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO]
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ mysupercoolapp ---
+[INFO] Building jar: C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\mysupercoolapp-0.0.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- maven-install-plugin:2.5.2:install (default-install) @ mysupercoolapp ---
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom (11 kB at 2.2 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.4/maven-shared-utils-0.4.pom
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.4/maven-shared-utils-0.4.pom (4.0 kB at 1.3 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.4/maven-shared-utils-0.4.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.4/maven-shared-utils-0.4.jar (155 kB at 23 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar (239 kB at 32 kB/s)
+Downloaded from central: https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar (233 kB at 28 kB/s)
+[INFO] Installing C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\target\mysupercoolapp-0.0.1-SNAPSHOT.jar to C:\Users\Nikith  -A-  Reddy\.m2\repository\com\luv2code\mysupercoolapp\0.0.1-SNAPSHOT\mysupercoolapp-0.0.1-SNAPSHOT.jar
+[INFO] Installing C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp\pom.xml to C:\Users\Nikith  -A-  Reddy\.m2\repository\com\luv2code\mysupercoolapp\0.0.1-SNAPSHOT\mysupercoolapp-0.0.1-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  02:04 min
+[INFO] Finished at: 2021-01-21T08:03:09+05:30
+[INFO] ------------------------------------------------------------------------
+
+C:\Users\Nikith  -A-  Reddy\Documents\workspace-spring-tool-suite-4-4.8.0.RELEASE\mysupercoolapp>
+
+

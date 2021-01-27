@@ -1,0 +1,69 @@
+Preparation Steps:                It continues every Day------- Revise your Notes every Day and practice Real time tools
+
+
+                                  Data Structures and Algorithms ,,,,Live classes in the morning....w3schools.com ...later try 
+                                 javatpoint.com   Angular and Mysql also  and also java 8 new features....
+
+
+A.Considering Covid Pandemic:
+
+1.Phone Call from H.R Asking Basic Questions like
+
+A.Explain little bit about yourself?
+B.Explain your roles and responsibilities in you current project?
+C.Explain about your Project?
+D.Doamin of your Project?
+E.Expected salary?
+D.Current CTC?
+F.Notice Period?
+G.About Documents?
+H.why do you want to change your job?
+I.And some other questions.....
+
+
+******2.Coding Test Round:
+
+Practice basic questions from website
+from Telegram downolads and from Telegram
+from Ashok also
+from Youtube also
+from website like Hackerrank and leetcode and geeksforgeeks.com
+
+After finishing the inform the H.R about your Test.
+
+3.May be Your Technical Round.
+
+They may ask you all questions related to java and J2ee and frameworks and so on...
+
+list important concepts from website and practice accordingly .
+framework interview questions from Ashok IT youtube channel
+also Practice Data Structures and Algorithms
+
+
+4.Project Manager Round :
+
+Prepare for Manager round questions from Ashok IT Youtube Channel
+
+also some other questions
+
+
+5.HR Round 
+
+Prepare for some other HR manager round questions from Google or Youtube
+
+
+
+
+B.If Not Covid Pandemic :
+
+They may ask you for FacetoFace interview 
+
+Follow the same above steps
+
+
+
+Remote Debugging is Pending
+
+
+
+https://www.youtube.com/watch?v=p0LPfK_oNCM-Link for Maven Full course
